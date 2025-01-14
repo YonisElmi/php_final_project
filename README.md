@@ -12,7 +12,7 @@ A Student Result System is a comprehensive software application designed to effi
 
 ### 2. Exam Management
 - Define subjects, exam schedules, and grading criteria.
-- Handle multiple exam types (e.g., midterms, finals, assignments).
+- Handle multiple exam types (e.g., midterms, finals).
 
 ### 3. Class Management
 - Add, update, and delete class records.
